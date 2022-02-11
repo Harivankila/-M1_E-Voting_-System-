@@ -8,3 +8,13 @@ E-voting system serves to reduce the cumulative costs of running elections and i
 
 ![Code Grade](https://api.codiga.io/project/31183/score/svg)
 
+# Folder Structure
+
+![image](https://user-images.githubusercontent.com/98792351/153645418-1adcf7c5-f0fe-4e9a-88cb-19fe089f99b7.png)
+
+# Learning Resources
+
+1.Geekforgeeks
+2.Solo Learn
+3.Tutorials Point
+
