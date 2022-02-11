@@ -40,7 +40,7 @@ S.No	System Requirements		Status
 2	OS	Windows and Linux	Implemented
 3	RAM	Min 4GB	Implemented
 4	Hard Disk	Min 10 GB	Implemented
-![image](https://user-images.githubusercontent.com/98792351/153595457-56df9797-3140-42c7-b8ea-1f8b0d6029a1.png)
+![image](https://user-images.githubusercontent.com/98792351/153596069-9b347cfa-02bd-4232-a084-4f311ebefbd9.png)
 
 # Low Level Requirements
 
