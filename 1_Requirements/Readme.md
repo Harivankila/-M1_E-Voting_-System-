@@ -26,6 +26,11 @@ The main Objectives includes:
 * As it incorporates remote voting individuals can vote from their convenience.
 * It will greatly reduce and eliminate disenfranchising electorates.
 
+# SWOT Analysis
+
+![image](https://user-images.githubusercontent.com/98792351/153594197-94ba925f-eb35-48f8-a805-5391d5f2e453.png)
+
+
 # Requirements
 
 # High Level Requirements
