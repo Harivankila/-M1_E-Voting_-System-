@@ -35,18 +35,23 @@ The main Objectives includes:
 
 # High Level Requirements
 
-1. The voter should be able to login
-2. The Voter has to choose the candidate to whoom he has to vote.
-3. Voter could be able cast his vote.
-4. Voter coulb be able to save the records.
-5. All the data has be to stored in highly confidential.
-6. Administrator should be able to maintain the records without data breach.
+S.No	System Requirements		Status
+1	Programming Language	C Language	Implemented
+2	OS	Windows and Linux	Implemented
+3	RAM	Min 4GB	Implemented
+4	Hard Disk	Min 10 GB	Implemented
+![image](https://user-images.githubusercontent.com/98792351/153595457-56df9797-3140-42c7-b8ea-1f8b0d6029a1.png)
 
 # Low Level Requirements
 
-1. Administrator should not authorize the voters who are not eligible.
-2. Administrator should be able to delete the illegal votes if any casted.
-3. Voter should be able to save the data and he would be able to see the previous data.
+S.No	System Requirements		Status
+1	Login Page		Implemented
+2	Input user name password		Implemented
+3	Authenticate the user		Implemented
+4	Choose the contestant and sign		Implemented
+5	Cast the vote		Implemented
+6	Save and Logout		Implemented
+![image](https://user-images.githubusercontent.com/98792351/153595809-f23d93b7-013d-4604-9d1d-1d3ada7d0967.png)
 
 
 
