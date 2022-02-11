@@ -35,22 +35,10 @@ The main Objectives includes:
 
 # High Level Requirements
 
-S.No	System Requirements		Status
-1	Programming Language	C Language	Implemented
-2	OS	Windows and Linux	Implemented
-3	RAM	Min 4GB	Implemented
-4	Hard Disk	Min 10 GB	Implemented
 ![image](https://user-images.githubusercontent.com/98792351/153596069-9b347cfa-02bd-4232-a084-4f311ebefbd9.png)
 
 # Low Level Requirements
 
-S.No	System Requirements		Status
-1	Login Page		Implemented
-2	Input user name password		Implemented
-3	Authenticate the user		Implemented
-4	Choose the contestant and sign		Implemented
-5	Cast the vote		Implemented
-6	Save and Logout		Implemented
 ![image](https://user-images.githubusercontent.com/98792351/153595809-f23d93b7-013d-4604-9d1d-1d3ada7d0967.png)
 
 
