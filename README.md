@@ -4,6 +4,6 @@ E-voting system serves to reduce the cumulative costs of running elections and i
 
 # Badges
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4782fd5c419244248ca9f5be7219894e)](https://www.codacy.com/gh/Harivankila/M1_ProjectGoal_E-Voting_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Harivankila/M1_ProjectGoal_E-Voting_System&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4782fd5c419244248ca9f5be7219894e)](https://www.codacy.com/gh/Harivankila/M1_ProjectGoal_E-Voting_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Harivankila/M1_ProjectGoal_E-Voting_System&amp;utm_campaign=Badge_Grade)   https://api.codiga.io/project/31183/score/svg
 
-https://api.codiga.io/project/31183/score/svg
+
