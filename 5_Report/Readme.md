@@ -1,4 +1,4 @@
-# Project Titele - E-Voting System
+# Project Title - E-Voting System
 
 # Description                                                                       
                                                                         
