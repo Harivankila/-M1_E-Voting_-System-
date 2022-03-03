@@ -4,7 +4,7 @@ E-voting (Electronic Voting) as a term encompasses a broad range of voting syste
 
 E-voting system serves to reduce the cumulative costs of running elections and increase voters participation in election system as it offers voters an easy and convenient way to vote and most importantly, it is a panacea to the issue of long distances covered by voters to a specific destination for their votes to be counted.
 
-# Badges
+# Codiga Badges
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4782fd5c419244248ca9f5be7219894e)](https://www.codacy.com/gh/Harivankila/M1_ProjectGoal_E-Voting_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Harivankila/M1_ProjectGoal_E-Voting_System&amp;utm_campaign=Badge_Grade)   
 
