@@ -27,19 +27,19 @@ The main Objectives includes:
 * It will greatly reduce and eliminate disenfranchising electorates.
 
 # 4 W's and 1H
-# WHAT
+# What
 * verifying the details of User
 
 # When
 * When user need to cast their vote through online
 
-# WHERE
+# Where
 * People can cast their votes from anywhere
 
-# WHO 
+# Who
 * People who need to cast their votes
 
-# HOW
+# How
 * People can login using their detail's
 
 # SWOT Analysis
