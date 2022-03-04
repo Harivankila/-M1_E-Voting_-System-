@@ -1,4 +1,4 @@
-# Introduction
+# Description
 
 E-voting (Electronic Voting) as a term encompasses a broad range of voting systems that apply electronic elements in one or more steps of the electoral cycle.There are many levels to e-voting in a broad sense which could be e-collation, e-verification, internet voting, remote online voting.Following the definition of a system as anything that takes an input and gives an output, an e-voting system is any system that can offers both electronic and online voting.
 
