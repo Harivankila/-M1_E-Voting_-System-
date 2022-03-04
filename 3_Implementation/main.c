@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include"election.h"
 
+// #include"election.h"
 // define macroname charseq
 // total no of the contestants
 #define total_no_of_parties
